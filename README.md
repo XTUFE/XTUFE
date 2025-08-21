@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Austin&size=30)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Mustafa&size=30)](https://git.io/typing-svg)
 
 ![Austin's GitHub contribution graph](https://activity-graph.vercel.app/graph?username=XTUFE&theme=react-dark&hide_border=true&custom_title=GitHub%20Activity)
 
