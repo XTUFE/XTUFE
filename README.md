@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=BD93F9&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Mustafa;🔍+I+reverse+engineer+things;📈+Building+autonomous+trading+bots;💾+Deep+into+databases+%26+systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Mustafa;I+reverse+engineer+things;Building+autonomous+trading+bots;Deep+into+database+systems&color=BD93F9&size=24&center=true&width=600" alt="Typing SVG" />
   </a>
 </p>
 
@@ -44,16 +44,16 @@ const mustafa = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XTUFE&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6&text_color=c9d1d9" height="165" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XTUFE&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=c9d1d9" height="165" alt="top languages"/>
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="profile details"/>
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="stats"/>
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="most commit language"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=XTUFE&theme=tokyonight&hide_border=true&background=0d1117&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XTUFE&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=bd93f9&line=ff79c6&point=ffffff&area=true&custom_title=Contribution%20Activity" width="100%" alt="activity graph"/>
 </p>
 
 ---
